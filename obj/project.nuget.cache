@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5K1kvkoZwZr04sWcJ2WOZp9cSvIAksg6v3K0QhGPi8BBeZNzyPs07tf/OO+Jc7LsJGXqIBS9B1CB/bcIGgfiYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\PCF Control\\NTONMultiSelectWithFilter\\NTONMultiSelectWithFilter.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.28.2\\microsoft.powerapps.msbuild.pcf.1.28.2.nupkg.sha512"
+  ],
+  "logs": []
+}

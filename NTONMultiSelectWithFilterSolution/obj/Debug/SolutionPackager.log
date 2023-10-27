@@ -1,0 +1,19 @@
+2023-10-27 15:16:27.306 - Info	
+Packing C:\Users\Admin\Downloads\PCF Control\NTONMultiSelectWithFilter\NTONMultiSelectWithFilterSolution\obj\Debug\Metadata to bin\Debug\NTONMultiSelectWithFilterSolution.zip
+
+2023-10-27 15:16:27.342 - Info	Processing Component: Entities
+2023-10-27 15:16:27.357 - Info	Processing Component: Roles
+2023-10-27 15:16:27.362 - Info	Processing Component: Workflows
+2023-10-27 15:16:27.362 - Info	Processing Component: FieldSecurityProfiles
+2023-10-27 15:16:27.370 - Info	Processing Component: Templates
+2023-10-27 15:16:27.370 - Info	Processing Component: EntityMaps
+2023-10-27 15:16:27.370 - Info	Processing Component: EntityRelationships
+2023-10-27 15:16:27.376 - Info	Processing Component: OrganizationSettings
+2023-10-27 15:16:27.386 - Info	Processing Component: optionsets
+2023-10-27 15:16:27.386 - Info	Processing Component: CustomControls
+2023-10-27 15:16:27.412 - Info	 - NTONMultiSelectWithFilter.NTONMultiSelectWithFilter
+2023-10-27 15:16:27.426 - Info	Processing Component: SolutionPluginAssemblies
+2023-10-27 15:16:27.426 - Info	Processing Component: EntityDataProviders
+2023-10-27 15:16:27.703 - Info	
+Unmanaged Pack complete.
+

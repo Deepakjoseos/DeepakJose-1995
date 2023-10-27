@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="NTONMultiSelectWithFilter" constructor="NTONMultiSelectWithFilter" version="0.0.1" display-name-key="NTONMultiSelectWithFilter" description-key="An NTONMultiSelect field With LookupFilter " control-type="standard" >
+    
+    <external-service-usage enabled="false">
+    </external-service-usage>
+    <property name="value" display-name-key="Value" description-key="Value" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="lookupFilterName" display-name-key="Lookup FilterName" description-key="lookup FilterName" of-type="Lookup.Simple" usage="input" required="false" />
+    <property name="linkedEntityName" display-name-key="Linked Entity Name" description-key="Linked Entity Name" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="nameAttribute" display-name-key="Linked Entity Name Attribute" description-key="Linked Entity Name Attribute" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="idAttribute" display-name-key="Linked Entity ID Attribute" description-key="Linked Entity ID Attribute" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="relationshipName" display-name-key="Relationship Name" description-key="Relationship Name" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="relationshipEntity" display-name-key="Relationship Entity" description-key="Relationship Entity" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="linkedEntityFetchXmlResource" display-name-key="FetchXml Web Resource" description-key="Optional FetchXml web resource to select linked entity records" of-type="SingleLine.Text" usage="input" required="false" />
+    
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/select2.min.css" order="2" />
+	  <css path="css/pcfsupport.css" order="3" />
+    </resources>
+    <feature-usage>
+       <uses-feature name="WebAPI" required="true" />
+      <uses-feature name="Utility" required="true" />
+    </feature-usage>
+  </control>
+</manifest>
